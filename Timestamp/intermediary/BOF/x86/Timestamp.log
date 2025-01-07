@@ -1,0 +1,11 @@
+﻿  用于 x86 的 Microsoft (R) C/C++ 优化编译器 19.38.33133 版
+  版权所有(C) Microsoft Corporation。保留所有权利。
+  cl /c /I"C:\src\vcpkg\installed\x86-windows\include" /Oy- /D BOF /GS- /Fo"intermediary\BOF\x86\\" /external:W1 /TC /analyze- /c /Fo"intermediary\BOF\x86\source" Source.c
+cl : 命令行 warning D9025: 正在重写“/Fointermediary\BOF\x86\”(用“/Fointermediary\BOF\x86\source”)
+  Source.c
+  E:\coding\c\Timestamp\Timestamp\intermediary\BOF\x86\source.obj
+  复制了 1 个文件
+  enumerating sections...
+  found debug section.. zeroing it...
+  closing stream...
+  done!
